@@ -14,8 +14,6 @@ O repositório está organizado da seguinte forma:
 
 - \`/exemplos\`: Nesta pasta, você encontrará exemplos de código e consultas SQL que desenvolvi durante as aulas práticas.
 - \`/projetos\`: Aqui, você poderá ver os projetos práticos que realizei ao longo do semestre, aplicando os conhecimentos adquiridos para resolver problemas reais.
-- \`/slides\`: Este diretório contém os slides das aulas, que abordam os principais conceitos e tópicos apresentados durante o curso.
-- \`/recursos\`: Uma pasta destinada a armazenar recursos adicionais, como arquivos de configuração ou materiais complementares.
 - \`/certificados\`: Neste espaço, compartilho os certificados de conclusão de atividades relacionadas ao curso de Banco de Dados.
 
 ## Como Executar os Exemplos
